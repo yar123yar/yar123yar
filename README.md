@@ -3,7 +3,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am a Data Analyst based in India.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.xlsx**, **.py**, **.sql**
+- 💻 I use daily: **.xlsx**, **.py**, **.sql**, **.pbix**
 - 📖 I am currently reading **Learning SQL** by Alan Beaulieu
 - 👯 We can connect to play some games of Dota 2
 - 🧑‍💻 Tech I work on :
