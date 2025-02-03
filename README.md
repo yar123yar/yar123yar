@@ -20,5 +20,6 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="microsoft_powerbi" width="100" height="80"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
       <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" width="55" height="55"/>
-      
+      <img src="https://img.icons8.com/color/512/microsoft-office-2019.png" width="55" height="55"/>
 </p>
+
