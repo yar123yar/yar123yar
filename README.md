@@ -22,7 +22,7 @@
  <img align="left" alt="Gmail" width="130" hight="100" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" />
 </a>
 <a href="www.linkedin.com/in/yarthem-muivah-914737219">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="left" alt="Linkedin" width="130" hight="100" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </br>
 </br>
 </br>
