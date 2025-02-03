@@ -1,20 +1,13 @@
 ## Hello, my name is Yarthem Muivah, and I am a passionate Data Analyst with skills in Python, MySQL, Excel, Power BI, and Google Sheets. I enjoy working with  datasets, optimizing queries, and creating interactive dashboards. I like to turn raw data into clear and useful insights. I am always eager to learn new tools and improve my data skills.👋
 
-<!--
-**yar123yar/yar123yar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
--->
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I am a Data Analyst based in India.
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I use daily: **.xlsx**, **.py**, **.sql**
+- 📖 I am currently reading **Learning SQL** by Alan Beaulieu
+- 👯 We can connect to play some games of Dota 2
 - 🧑‍💻 Tech I work on :
+  
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="microsoft_powerbi" width="100" height="80"/>
