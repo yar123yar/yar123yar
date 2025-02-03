@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Yarthem Muivah, and I am a passionate Data Analyst with skills in Python, MySQL, Excel, Power BI, and Google Sheets. I specialize in cleaning, analyzing, and visualizing data to help businesses make better decisions. I enjoy working with large datasets, optimizing queries, and creating interactive dashboards. With a strong attention to detail, I turn raw data into clear and useful insights. I am always eager to learn new tools and improve my data skills.👋
 
 <!--
 **yar123yar/yar123yar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
