@@ -1,4 +1,4 @@
-## Hello, my name is Yarthem Muivah, and I am a passionate Data Analyst. I enjoy working with  datasets, optimizing queries, and creating interactive dashboards. I like to turn raw data into clear and useful insights. I am always eager to learn new tools and improve my data skills.👋
+## Hello, my name is Yarthem Muivah, and I am a passionate Data Analyst. I enjoy working with  datasets, optimizing queries, web scraping, analysing, cleaning and creating interactive dashboards. I like to turn raw data into clear and useful insights. I am always eager to learn new tools and improve my data skills.👋
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am a Data Analyst based in India.
