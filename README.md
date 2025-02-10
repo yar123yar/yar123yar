@@ -1,8 +1,17 @@
-## Hello, my name is Yarthem Muivah, and I am a passionate Data Analyst. I enjoy working with  datasets, optimizing queries, web scraping, analysing, cleaning and creating interactive dashboards. I like to turn raw data into clear and useful insights. I am always eager to learn new tools and improve my data skills.👋
+<div align="center">
+    <img src="./crop-hello.gif"/>
+      <h1>My name is Yarthem Muivah</h1>
+</div>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+## I am a passionate Data Analyst. I enjoy working with  datasets, optimizing queries, web scraping, analysing, cleaning and creating interactive dashboards. I like to turn raw data into clear and useful insights. I am always eager to learn new tools and improve my data skills.👋
+
+<div align="center">
+   <img width="100%" src='https://capsule-render.vercel.app/api?type=waving&color=0000FF&section=header'/>
+</div>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am a Data Analyst based in India.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.xlsx**, **.py**, **.sql**, **.pbix**
 - 🔭 I’m currently working on Creating Dashboard on Car Sale Analyst.
 - 📖 I am currently reading **Learning SQL** by Alan Beaulieu
@@ -36,9 +45,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=yar123yar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
