@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.xlsx**, **.py**, **.sql**, **.pbix**
 - 🔭 I’m currently working on Creating Dashboard on Car Sale Analyst.
-- 📖 I am currently reading **Learning SQL** by Alan Beaulieu
+- 📖 I am currently reading **Storytelling With Data** by Coloe Nussbaumer Knaflic
 - 👯 We can connect to play some games of Dota 2
 - 🧑‍💻 Tech I work on :
   
