@@ -1,8 +1,3 @@
-<div align="center">
-    <img src="./crop-hello.gif"/>
-      <h1>My name is Yarthem Muivah</h1>
-</div>
-
 ## I am a passionate Data Analyst. I enjoy working with  datasets, optimizing queries, web scraping, analysing, cleaning and creating interactive dashboards. I like to turn raw data into clear and useful insights. I am always eager to learn new tools and improve my data skills.👋
 
 <div align="center">
