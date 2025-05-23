@@ -1,5 +1,3 @@
-## I am a passionate Data Analyst. I enjoy working with  datasets, optimizing queries, web scraping, analysing, cleaning and creating interactive dashboards. I like to turn raw data into clear and useful insights. I am always eager to learn new tools and improve my data skills.👋
-
 <div align="center">
    <img width="100%" src='https://capsule-render.vercel.app/api?type=waving&color=0000FF&section=header'/>
 </div>
